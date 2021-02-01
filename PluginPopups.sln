@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluginPopups", "PluginPopups\PluginPopups.csproj", "{554EFF26-33DB-4282-A536-C57066E23ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginPopups.Wpf", "PluginPopups.WPF\PluginPopups.Wpf.csproj", "{775980BB-CF39-46F1-B772-0108A73C322D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554EFF26-33DB-4282-A536-C57066E23ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554EFF26-33DB-4282-A536-C57066E23ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554EFF26-33DB-4282-A536-C57066E23ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554EFF26-33DB-4282-A536-C57066E23ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775980BB-CF39-46F1-B772-0108A73C322D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775980BB-CF39-46F1-B772-0108A73C322D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775980BB-CF39-46F1-B772-0108A73C322D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775980BB-CF39-46F1-B772-0108A73C322D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C939E616-ADFE-4692-9331-3D1C70702A94}
+	EndGlobalSection
+EndGlobal
